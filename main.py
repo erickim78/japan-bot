@@ -3,6 +3,7 @@ import config
 
 # Generic
 import os
+import random
 
 # Discord
 import discord
